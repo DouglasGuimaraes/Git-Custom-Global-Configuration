@@ -1,3 +1,5 @@
+@echo off
+
 :start 
    set /p answer=Do you want to install OR uninstall git helper (I/U)?
    if /i "%answer:~,1%" EQU "I" goto install
@@ -20,7 +22,7 @@
     exit
 
 :uninstall 
-   git config --global --unset core.editor
+    git config --global --unset core.editor
     git config --global --unset alias.df
     git config --global --unset alias.st
     git config --global --unset alias.co
