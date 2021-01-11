@@ -3,9 +3,9 @@
 <details>
   <summary>[English]</summary>
 
-<br />
-
 ## Description
+
+<br />
 
 It's a simple batch file that configure globally (--global) some GIT alias and basic configurations, making some commands easier in day by day.
 
@@ -44,6 +44,8 @@ Douglas
 
 <details>
   <summary>[Português]</summary>
+
+## Description
 
 <br />
 
