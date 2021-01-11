@@ -33,6 +33,7 @@ Configurations:
  * U: Uninstall
 2. If you click install, all the configuration [above](#Description) will be done.
 3. If you click uninstall, all the configuration [above](#Description) will undone.
+4. After the operation, your default GIT editor will open your global configuration (--global).
 
 I hope it can be usefull in your day by day!  :wink:
 
@@ -73,6 +74,7 @@ Configurações:
  * U: Desinstalar
 2. Se escolher Instalar (I), todas as configurações [acima](#Description) serão realizadas.
 3. Se escolher Desinstalar (U), todas as configurações [acima](#Description) serão desfeitas.
+4. Após a operação, seu editor de texto GIT padrão irá abrir a configuração global (--global).
 
 Espero que ajudem em seu dia a dia! :wink:
 
