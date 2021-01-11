@@ -21,7 +21,7 @@ Configurations:
 - user.email = [user input]
 - editor = Visual Studio Code (code --wait).
 
-## Pre-Requirements
+## Prerequirements
 
 - GIT (obviously :grin:)
 - Visual Studio Code: I really like this one as editor, but you can change the script to adapt your prefered editor.
@@ -67,7 +67,7 @@ Configurações:
 ## Pré-Requisitos
 
 - GIT (obviamente :grin:)
-- Visual Studio Code: eu realmente gosto dele como editor, mas você pode editar o script para o edit de sua preferência.
+- Visual Studio Code: eu realmente gosto dele como editor, mas você pode editar o script para o editor de sua preferência.
 
 ## Instalação
 
