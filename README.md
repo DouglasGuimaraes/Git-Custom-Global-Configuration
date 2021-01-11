@@ -1,4 +1,4 @@
-# Git-Custom-Global-Configuration
+# Git-Custom-Global-Configuration for Windows
 
 <details>
   <summary>[English]</summary>
