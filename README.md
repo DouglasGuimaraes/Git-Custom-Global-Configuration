@@ -45,7 +45,7 @@ Douglas
 <details>
   <summary>[Português]</summary>
 
-## Description
+## Descrição
 
 <br />
 
@@ -74,8 +74,8 @@ Configurações:
 1. Duplo clique no batch e escolher uma das opções: 
  * I: Instalar
  * U: Desinstalar
-2. Se escolher Instalar (I), todas as configurações [acima](#Description) serão realizadas.
-3. Se escolher Desinstalar (U), todas as configurações [acima](#Description) serão desfeitas.
+2. Se escolher Instalar (I), todas as configurações [acima](#Descrição) serão realizadas.
+3. Se escolher Desinstalar (U), todas as configurações [acima](#Descrição) serão desfeitas.
 4. Após a operação, seu editor de texto GIT padrão irá abrir a configuração global (--global).
 
 Espero que ajudem em seu dia a dia! :wink:
